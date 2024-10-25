@@ -21,7 +21,7 @@
     },
     {
       "id": 3,
-      "cover": "https://images.unsplash.com/photo-1517430816045-df4b7de11d0f",
+      "cover": "https://i.ibb.co.com/m9s1mQ0/teamwork-making-online-blog.jpg",
       "title": "JavaScript for Beginners",
       "author": "Alice Johnson",
       "author_img": "https://randomuser.me/api/portraits/women/46.jpg",
@@ -31,7 +31,7 @@
     },
     {
       "id": 4,
-      "cover": "https://images.unsplash.com/photo-1564869732468-d4a1eaeb1efe",
+      "cover": "https://i.ibb.co.com/nBTp6tJ/2.png",
       "title": "Responsive Web Design",
       "author": "Mark Wilson",
       "author_img": "https://randomuser.me/api/portraits/men/47.jpg",
@@ -41,7 +41,7 @@
     },
     {
       "id": 5,
-      "cover": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df",
+      "cover": "https://i.ibb.co.com/9bXjXnB/4.jpg",
       "title": "Understanding APIs",
       "author": "Emily Davis",
       "author_img": "https://randomuser.me/api/portraits/women/48.jpg",
